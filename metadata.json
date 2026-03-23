@@ -1,0 +1,7 @@
+{
+  "name": "Remix: AI Virtual Dressing Room",
+  "description": "An AI-powered virtual try-on application that allows users to upload clothing items and see them on models or themselves.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
